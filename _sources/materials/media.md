@@ -6,7 +6,6 @@ In this page you will find all shared links for media materials such as videos, 
 ```{image} ../figs/media.png
 :alt: media logo
 :width: 300px
-:class: bg-primary
 :align: left
 ```
 
