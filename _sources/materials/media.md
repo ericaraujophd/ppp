@@ -4,12 +4,9 @@
 :alt: media logo
 :width: 300px
 :align: left
-:display: block
+:style: display: block
 ```
 
-:::{figure-md} markdown-fig
-<img src="../figs/media.png" alt="Media" class="bg-primary mb-1" width="300px">
-:::
 
 In this page you will find all shared links for media materials such as videos, podcasts, and other media resources.
 
