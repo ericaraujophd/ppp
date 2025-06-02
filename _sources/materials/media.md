@@ -2,9 +2,9 @@
 
 ```{image} ../figs/media.png
 :alt: media logo
-:class: bg-primary mb-1
 :width: 300px
 :align: left
+:display: block
 ```
 
 In this page you will find all shared links for media materials such as videos, podcasts, and other media resources.
