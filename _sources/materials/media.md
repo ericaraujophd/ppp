@@ -3,8 +3,8 @@
 ```{image} ../figs/media.png
 :alt: media logo
 :width: 300px
-:align: left
-:style: display: block
+:class: bg-primary
+:align: center
 ```
 
 
