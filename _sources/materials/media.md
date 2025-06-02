@@ -10,6 +10,8 @@ In this page you will find all shared links for media materials such as videos, 
 :align: left
 ```
 
+---
+
 ## Videos
 
 ### Herman De Vries
