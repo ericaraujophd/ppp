@@ -1,4 +1,4 @@
-# CCCS Ideas on Polarization/Populism/Pluralism
+# Polarization/Populism/Pluralism Ideas
 
 
 
