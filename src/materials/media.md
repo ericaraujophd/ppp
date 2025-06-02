@@ -1,6 +1,11 @@
 # Media
 
-<img src="../figs/media.png" width="300"/>
+```{image} ../figs/media.png
+:alt: media logo
+:width: 300px
+:class: bg-primary
+:align: center
+```
 
 
 In this page you will find all shared links for media materials such as videos, podcasts, and other media resources.
