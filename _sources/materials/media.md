@@ -1,6 +1,6 @@
 # Media
 
-![](src/figs/media.png)
+![](../figs/media.png)
 
 In this page you will find all shared links for media materials such as videos, podcasts, and other media resources.
 
