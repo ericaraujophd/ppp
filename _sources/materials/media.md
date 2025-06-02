@@ -8,7 +8,6 @@ In this page you will find all shared links for media materials such as videos, 
 :width: 300px
 ```
 
-test 1
 
 ## Videos
 
