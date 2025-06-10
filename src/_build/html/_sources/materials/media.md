@@ -29,6 +29,13 @@ To me this feels very relevant for our PPP project. It is an interdisciplinary a
 
 - [They Warned Us in 1945: Fascism in America Would Look Like Patriotism](https://therationalleague.substack.com/p/they-warned-us-in-1945-fascism-in?r=1lpruu&utm_medium=ios&triedRedirect=true)
 
+
+How America Fractured Into Four Parts - People in the United States no longer agree on the nation’s purpose, values, history, or meaning. Is reconciliation possible? 
+
+By George Packer
+
+- [How America Fractured in Four Parts](https://www.theatlantic.com/magazine/archive/2021/07/george-packer-four-americas/619012/?gift=e0X04z2AxD6btJosNRQeP5JjOEQ_fbqJn1CcbQkz0m0&utm_source=copy-link&utm_medium=social&utm_campaign=share)
+
 ### Katie Good
 
 - [NYT on Mass Job Loss](https://www.nytimes.com/2025/05/30/technology/ai-jobs-college-graduates.html)
