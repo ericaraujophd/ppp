@@ -14,13 +14,14 @@ In this page you will find all shared links for media materials such as videos, 
 ### Herman De Vries
 
 - [How smartphones and AI are destroying our youth, democracy and sense of meaning with Jonathan Haidt](https://www.youtube.com/watch?v=kEUvM4B-oiA)
+- [Revolt of the Unheard: Populism Comes to the Netherlands](https://drive.google.com/file/d/1R44CRXlwOMqp_RKPvjSziKmuKKt9AYYk/view)
 
 ## Podcasts
 
 ### Herman De Vries
 
 - [Gert-Jan Segers - In Dutch](https://www.nporadio1.nl/podcasts/de-ongelooflijke-podcast/94150/152-de-politiek-kerk-en-ideologische-strijd-met-klaas-dijkhoff-en-gert-jan-segers)
-- [Revolt of the Unheard: Populism Comes to the Netherlands](https://drive.google.com/file/d/1R44CRXlwOMqp_RKPvjSziKmuKKt9AYYk/view)
+
 
 ## Articles
 
