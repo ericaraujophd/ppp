@@ -20,6 +20,7 @@ In this page you will find all shared links for media materials such as videos, 
 ### Herman De Vries
 
 - [Gert-Jan Segers - In Dutch](https://www.nporadio1.nl/podcasts/de-ongelooflijke-podcast/94150/152-de-politiek-kerk-en-ideologische-strijd-met-klaas-dijkhoff-en-gert-jan-segers)
+- [Revolt of the Unheard: Populism Comes to the Netherlands](https://drive.google.com/file/d/1R44CRXlwOMqp_RKPvjSziKmuKKt9AYYk/view)
 
 ## Articles
 
@@ -28,7 +29,6 @@ In this page you will find all shared links for media materials such as videos, 
 To me this feels very relevant for our PPP project. It is an interdisciplinary attempt to understand the MAGA movement. I assume many of the attributes described here are pertinent to other populist movements as well. I’d like to hear what others, especially political scientists, think of it:
 
 - [They Warned Us in 1945: Fascism in America Would Look Like Patriotism](https://therationalleague.substack.com/p/they-warned-us-in-1945-fascism-in?r=1lpruu&utm_medium=ios&triedRedirect=true)
-
 
 How America Fractured Into Four Parts - People in the United States no longer agree on the nation’s purpose, values, history, or meaning. Is reconciliation possible? 
 
